@@ -1,7 +1,6 @@
 {
   "run_list": [
     "recipe[yum-epel]",
-    "recipe[git]",
     "recipe[ntp]",
     "recipe[user]",
     "recipe[nginx]"
