@@ -1,5 +1,6 @@
 /cookbooks/
 .vagrant
+*.lock
 *.gem
 *.rbc
 /.config
